@@ -1,0 +1,9 @@
+{
+  "parent": "swiss_flashlight:item/overcharged_flashlight_off",
+  "overrides": [
+    {
+      "predicate": { "swiss_flashlight:active": 1.0 },
+      "model": "swiss_flashlight:item/overcharged_flashlight_on"
+    }
+  ]
+}
